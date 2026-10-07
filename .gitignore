@@ -1,0 +1,4 @@
+.claude/
+.settings.json
+.env
+.env.*
