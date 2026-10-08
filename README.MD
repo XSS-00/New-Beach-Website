@@ -84,18 +84,8 @@ The venue offers **200 seats per day** across the three zones.
 | **App features** | Web app manifest · service worker · offline page |
 | **Hosting** | GitHub Pages |
  
-<br />
-## 🚀 Run it locally
- 
-```bash
-git clone https://github.com/XSS-00/New-Beach-Website.git
-cd New-Beach-Website
-npm install
-npm run dev
-```
- 
-Then open the address shown in the terminal, usually `http://localhost:5173/`.
- 
+
+  
 <br />
 ## 🔭 Roadmap
  
