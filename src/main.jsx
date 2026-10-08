@@ -319,7 +319,7 @@ function Hero({ totalRemaining, totalCapacity, onBook }) {
           </div>
           <div className="relative ml-auto mt-10 max-w-[520px] rounded-[2rem] border border-white/55 bg-white/30 p-3 shadow-soft backdrop-blur">
             <div className="overflow-hidden rounded-[1.5rem] bg-slate-950">
-              <img src="/costa-fiesta-logo.jpg" alt="Costa Fiesta Beach Club" className="h-72 w-full object-contain p-10 sm:h-96" />
+              <img src={`${import.meta.env.BASE_URL}costa-fiesta-logo.jpg`} alt="Costa Fiesta Beach Club" className="h-72 w-full object-contain" />
             </div>
           </div>
           <div className="absolute bottom-2 left-3 rounded-3xl border border-white/65 bg-white/90 p-4 shadow-soft backdrop-blur">
